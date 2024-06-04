@@ -1,10 +1,4 @@
-# Movie Library Web App: https://cinemenon-movie-library-b5d5.netlify.app/
-
-Made by 20MIS0201 DEVIKA MENON
-
-I apologize for the formatting issue. It seems that the line breaks are not being preserved when you paste the content. To ensure proper formatting in your README.md file, you can manually add line breaks by inserting two spaces at the end of each line. Here's the revised version with explicit line breaks:
-
----
+# Link: https://cinemenon-movie-library-b5d5.netlify.app/
 
 # CineMenon Movie Library Web App
 
